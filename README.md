@@ -92,7 +92,7 @@ A C++ application designed to manage seating assignments for a small airline's s
 
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the GNU License. See the LICENSE file for details.
 
 ---
 
@@ -104,5 +104,4 @@ Feel free to fork this repository and contribute to the project. Pull requests a
 
 ## Contact
 
-For questions or support, please reach out to the repository maintainer or open an issue on GitHub.
-
+For questions or support, please reach out to me or open an issue on GitHub.
