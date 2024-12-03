@@ -22,7 +22,7 @@ A C++ application designed to manage seating assignments for a small airline's s
 
 ---
 
-## Usage
+## Usage (Linux)
 
 1. Compile the program using a C++ compiler (e.g., g++, clang++):
    ```bash
