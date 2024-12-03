@@ -92,7 +92,7 @@ A C++ application designed to manage seating assignments for a small airline's s
 
 ## License
 
-This project is licensed under the GNU License. See the LICENSE file for details.
+This project is licensed under the GPL License. See the LICENSE file for details.
 
 ---
 
